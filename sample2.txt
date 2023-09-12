@@ -1,2 +1,0 @@
-sample2 merge the two file
-now edit the sample2 in github
